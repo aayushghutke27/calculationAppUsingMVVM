@@ -2,12 +2,16 @@
 This is my first Android app using MVVM architecture. The app allows users to add two numbers and displays the result.
 The main purpose of this project is to practice and understand the MVVM (Model-View-ViewModel) pattern in Android development.
 
+
+
 🚀 Features
 ✅ Add two numbers using MVVM structure.
 ✅ Clean separation of UI (View), Business Logic (ViewModel), and Data (Model).
 ✅ Input validation (handles empty input gracefully).
 ✅ Modern UI using CardView and Button components.
 ✅ Basic View Binding integration.
+
+
 
 📂 Project Structure
 com.example.learnmvvm
@@ -31,13 +35,16 @@ com.example.learnmvvm
 - ![View Binding](https://img.shields.io/badge/View%20Binding-Android-lightgrey?style=for-the-badge)
 
 
+
 📸 Screenshots
 
 Input Screen
-![Screenshot_20250614_014204](https://github.com/user-attachments/assets/cce10d1b-7b11-45f3-a209-44c1ea7ba082)
+![Screenshot_20250614_014313 1](https://github.com/user-attachments/assets/79f32408-a434-49a4-aafa-951cf0c1c6dc)
+
+
 
 Output Screen
-![Screenshot_20250614_014313](https://github.com/user-attachments/assets/be79e184-4bb6-4b1e-a574-898cc867da88)
+![Screenshot_20250614_014204 1](https://github.com/user-attachments/assets/dd1beb06-7d53-4e29-b585-829a6e156e14)
 
 
 
