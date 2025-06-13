@@ -38,13 +38,17 @@ com.example.learnmvvm
 
 📸 Screenshots
 
-Input Screen
-![Screenshot_20250614_014313 1](https://github.com/user-attachments/assets/79f32408-a434-49a4-aafa-951cf0c1c6dc)
+Input Screen                                                                                                                              Output Screen
 
 
 
-Output Screen
-![Screenshot_20250614_014204 1](https://github.com/user-attachments/assets/dd1beb06-7d53-4e29-b585-829a6e156e14)
+ ![Screenshot_20250614_014204 1](https://github.com/user-attachments/assets/dd1beb06-7d53-4e29-b585-829a6e156e14)                         ![Screenshot_20250614_014313 1](https://github.com/user-attachments/assets/79f32408-a434-49a4-aafa-951cf0c1c6dc)                           
+
+
+
+
+
+
 
 
 
